@@ -1,0 +1,16 @@
+let name="mayur";
+let school="z.p.highscgool";
+let grade="A";
+let section="B";
+let rollno="0338";
+let math="mark scored 88";
+let biology="mark scored 94";
+let chem="mark scored 85";
+console.log(name);
+console.log(school);
+console.log(grade);
+console.log(section);
+console.log(rollno);
+console.log(math);
+console.log(biology);
+console.log(chem);
